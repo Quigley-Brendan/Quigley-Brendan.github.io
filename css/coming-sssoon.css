@@ -763,10 +763,8 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     position: fixed;
     top: 0px;
     right: 0px;
-/*
     min-width: 100%;
     min-height: 100%;
-*/
     width: 100%;
     height: 100%;
     z-index: 1;
